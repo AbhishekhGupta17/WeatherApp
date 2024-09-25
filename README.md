@@ -15,7 +15,7 @@ A simple weather application that allows users to get the current weather condit
 
 ## Demo
 
-[Project Preview](https://biswajithemram.github.io/weather-app/)
+[Project Preview](https://abhishekhgupta17.github.io/WeatherApp/)
 
 
 ## Features
@@ -36,7 +36,7 @@ A simple weather application that allows users to get the current weather condit
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:BiswajitHemram/weather-app.git
+   git clone git@github.com:AbhishekhGupta17/WeatherApp.git
    cd weather-app
    ```
 
